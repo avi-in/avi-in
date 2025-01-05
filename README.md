@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avi-in
-- 👀 I’m interested in React based applications.
+- 👀 I’m interested in Java Fullstack, Angula, React & NextJs based application development.
 - 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on React Js based Project
+- 💞️ I’m looking to collaborate on React Js, NextJs based Project
 - 📫 Please feel free to contact me.
 
 <!---
